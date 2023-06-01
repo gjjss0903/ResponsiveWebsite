@@ -1,0 +1,5 @@
+input[class=header_input_text]:focus::placeholder {
+  color: transparent;
+  outline-style: none;
+}
+
